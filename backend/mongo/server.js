@@ -20,7 +20,7 @@ app.use("/sensorapi", router);
 
 
 
-const uri = "mongodb+srv://hakanakdogan:159753@hakanakdogan.goujj.mongodb.net/?retryWrites=true&w=majority";
+const uri = "***";
 
 let isConnected = false;
 
